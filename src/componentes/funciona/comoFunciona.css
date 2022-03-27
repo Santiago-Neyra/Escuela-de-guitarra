@@ -1,0 +1,48 @@
+.como-funciona-container{
+    /*background-image: url(https://i.postimg.cc/bwVYVGYg/black-texture.jpg);*/
+    width: 100%;
+    border-bottom: 0.5px solid #80808073;
+    
+    background-repeat: none;
+    background-size: cover;
+}
+.titulo-como-funciona{
+    color: orangered;
+    text-align: left;
+    
+}
+.titulo-como-funciona-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px;
+   
+}
+.titulo-como-funciona-container p{
+text-align: start;    
+}
+.video-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px;
+}
+.container-pack-titulo{
+    width: 70%;
+}
+.button-container{
+    display: flex;
+}
+.button-container button{
+    background: transparent;
+    color: orangered;
+    border: none;
+}
+.item{
+    background-color: rgb(255, 68, 0);
+    height: 4px;
+    width: 30px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+}

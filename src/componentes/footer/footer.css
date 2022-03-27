@@ -1,0 +1,91 @@
+.footer-container{
+    background-color: rgba(0, 0, 0, 0.657);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.container-inputs{
+    width: 60%;
+    margin: auto;
+}
+.container-iconos-footer{
+    align-items: center;
+    display: flex;
+   
+    flex-direction: column;
+    
+}
+.container-iconos-footer a{
+    margin-left: 30px;
+}
+.button-consulta{
+    margin: 20px;
+    background-color: orangered;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right:10px ;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2rem;
+    margin-bottom: 16px;
+    
+}
+.container-form{
+    border-right: 1px solid rgba(128, 128, 128, 0.623);
+    
+}
+.text-footer{
+    border-right: 1px solid rgba(128, 128, 128, 0.623);
+}
+.container-form span{
+    background: transparent;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    margin-right: 5px;
+    border-radius: 10px;
+}
+.button-consulta:hover{
+    transform: scale(0.9);
+    transition: 1s;
+    
+}
+.titulo-contactanos{
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+.map{
+    width: 90%;
+    
+}
+.mapa-container{
+    width: 100%;
+}
+.dire{
+    color: white;
+}
+.titulo-map{
+    color: orangered;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+.text-footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.nombre-redes{
+    color: white;
+    margin-left: 10px;
+}
+.unidad-icono{
+    margin: 10px;
+}
+.titulo-redes{
+    color: orangered;
+    font-size: 1rem;
+    margin-bottom: 15px;
+
+}

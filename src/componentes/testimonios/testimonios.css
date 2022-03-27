@@ -1,0 +1,28 @@
+.titulo-testimonio{
+    color: orangered;
+}
+.testimonios{
+    /*background-image: url(https://i.postimg.cc/bwVYVGYg/black-texture.jpg);*/
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.texto-testimonio{
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-bottom: 0;
+}
+.icono-google{
+    width: 40px;
+    
+}
+.icono-estrellas{
+    max-width: 100px;
+   
+}
+.container-estrellas{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

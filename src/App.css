@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.iconoo{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.a-logo{
+  align-items: center;
+}
+body{
+  background-image: url(https://i.postimg.cc/bwVYVGYg/black-texture.jpg);
+}
